@@ -1,0 +1,23 @@
+html, body {
+  margin: 0px;
+  padding: 0px
+}
+
+body {
+  overflow: hidden;
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+  padding: 1rem;
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity))
+}
+
+span {
+  overflow: auto
+}
+
+textarea {
+  outline: 2px solid transparent;
+  outline-offset: 2px
+}
